@@ -115,7 +115,7 @@
               <option value="長崎県">長崎県</option>
               <option value="熊本県">熊本県</option>
               <option value="大分県">大分県</option>
-              <option value="宮崎県">宮崎県</option>
+              <option value="宮崎県">宮崎県</option>  
               <option value="鹿児島県">鹿児島県</option>
               <option value="沖縄県">沖縄県</option>
             </select>
